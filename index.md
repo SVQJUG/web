@@ -3,7 +3,7 @@ title: SVQJUG
 ---
 # SVQJUG
 
-Visit our [meetup](https://www.meetup.com/SVQJUG/)
+Join our [meetup](https://www.meetup.com/SVQJUG/)!
 
 or
 
