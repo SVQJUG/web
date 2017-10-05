@@ -1,9 +1,10 @@
 ---
-title: SVQJUG
+layout: home
+title: SVQJUG - Sevilla Java User Group
 ---
-# SVQJUG
-
-Visit our [meetup](https://www.meetup.com/SVQJUG/)
+### Sevilla Java User Group  
+  
+Join our [meetup](https://www.meetup.com/SVQJUG/)!
 
 or
 
