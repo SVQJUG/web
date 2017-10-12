@@ -7,11 +7,7 @@ Error: Invalid CSS after "@import "main"": expected "{", was ";"
 3: ---
 4: 
 5: @import "main";
-6: 
-7: .logo_img {
-8:   width: 35%;
-9:   height: auto;
-10: }
+6: @import "svqjug.css";
 
 Backtrace:
 main.scss:5
@@ -43,4 +39,4 @@ main.scss:5
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Invalid CSS after \"@import \"main\"\": expected \"{\", was \";\"\A         on line 5 of main.scss\A \A 1: ---\A 2: # Only the main Sass file needs front matter (the dashes are enough)\A 3: ---\A 4: \A 5: @import \"main\";\A 6: \A 7: .logo_img {\A 8:   width: 35%;\A 9:   height: auto;\A 10: }"; }
+  content: "Error: Invalid CSS after \"@import \"main\"\": expected \"{\", was \";\"\A         on line 5 of main.scss\A \A 1: ---\A 2: # Only the main Sass file needs front matter (the dashes are enough)\A 3: ---\A 4: \A 5: @import \"main\";\A 6: @import \"svqjug.css\";"; }
