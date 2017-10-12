@@ -3,4 +3,52 @@
 ---
 
 @import "main";
-@import "svqjug.css";
+
+.logo_img {
+  width: 35%;
+  height: auto;
+}
+
+.omeya_green_background {
+  background-color: #007a33;
+}
+
+.omeya_green_color {
+  color: #007a33 !important;
+}
+
+.light_red_color {
+  color: #C60E00;
+}
+
+.light_red_background {
+  background-color: #C60E00;
+}
+
+.dark_red_color {
+  color: #7A0800;
+}
+
+.faded_green_color {
+  color: #14C65F;
+}
+
+.light_green_color {
+  color: #00C653;
+}
+
+a {
+  color: #00C653;
+}
+
+.last-post .collection .collection-item.avatar>.date-post {
+  background-color: #C60E00;
+}
+
+i.material-icons {
+  color: #00C653;
+}
+
+.side-nav li > a{
+  color: #00C653;
+}
