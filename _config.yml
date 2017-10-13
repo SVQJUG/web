@@ -1,0 +1,12 @@
+title: SVQJUG
+author: SVQJUG
+email: svqjug@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  SVQJUG
+  Sevilla Java User Group
+
+twitter_username: svqjug
+github_username:  svqjug
+
+sass:
+    style: compressed
