@@ -17,9 +17,9 @@ layout: default
     <section>
       <h5>Latest Posts</h5>
       <ul class="collection">
-        {% for post in site.posts %}
+        {% for post in site.posts limit: 5%}
         <li class="collection-item avatar">
-          {% assign date_format = site.minima.date_format | default: "%m/%d" %}
+          {% assign date_format = site.minima.date_format | default: "%d/%m" %}
           <div class="date-post">{{ post.date | date: date_format }}</div>
           <span class="title"><a class="post-link"
                                  href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></span>
