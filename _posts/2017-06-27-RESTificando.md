@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DDD Sesión 2"
+title: "RESTificando Cosas"
 author: "Agustín"
 ---
 TLDR; Resumen de la Sesión RESTificando Cosas
@@ -112,4 +112,4 @@ Y por último se volvió a repasar el tema CORS, sobre todo haciendo hincapié e
 cabeceras, ya que son fácilmente falseadas con distintas herramientas.
 Con ésto ya nos habíamos comido las dos horas y pasamos a las cervezas y el networking :)
 
-El código del ejemplo y la presentación lo tenéis en https://github.com/programaconsaba/RESTificando-cosas
+El código del ejemplo y la presentación lo tenéis en [Github](https://github.com/programaconsaba/RESTificando-cosas)
