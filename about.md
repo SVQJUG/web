@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Acerca de
 permalink: /about/
 ---
 <header class="post-header">

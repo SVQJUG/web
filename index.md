@@ -4,8 +4,8 @@ title: SVQJUG - Sevilla Java User Group
 ---
 ### Sevilla Java User Group  
   
-Join our [meetup](https://www.meetup.com/SVQJUG/)!
+Únete a nuestro [meetup](https://www.meetup.com/SVQJUG/)!
 
-or
+o
 
-Follow us on [twitter](https://twitter.com/SVQJUG)
+Siguenos en [twitter](https://twitter.com/SVQJUG)
