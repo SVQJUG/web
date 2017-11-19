@@ -11,7 +11,7 @@ potencialmente complicadísimo.
 Hoy el resumen será breve porque, entre otros motivos, nuestro ponente se curró una presentación muy apañada que tenéis 
 [aquí](https://docs.google.com/presentation/d/e/2PACX-1vSq2hp_XhBLtXviT8ZfnQ4ysQAOB4jq7wGKedNOZkwon4aJHoOyf6M_st-R6wIe7b60RWiHl--nsEpd/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
-Por no entrar en más detalles, trataré de añadir alguna cosa que me llamase la atención en este mail.
+Por no entrar en más detalles, trataré de añadir alguna cosa que me llamase la atención en este post.
 
 El punto de partida es que los microservicios molan (otra cosa es que nos dejen usarlos, etc...) pero que la 
 comunicación entre ellos (bien xml o json) es bastante ineficiente. Personalmente nunca me lo había planteado, pero si 
